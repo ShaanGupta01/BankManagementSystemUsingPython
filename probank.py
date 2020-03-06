@@ -2,11 +2,11 @@
 """
 Created on Thu Feb 13 21:32:24 2020
 
-@author: Sahil and Vivek
+@author: Sahil
 
 Project: Bank Management System
 
-Subject: Python
+Language: Python
 """
 
 from random import randint  # library used for generating account number
